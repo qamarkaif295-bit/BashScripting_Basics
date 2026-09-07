@@ -1,5 +1,3 @@
-Here is a professional README.md file for your Bash Scripting Basics project. You can copy this and upload it directly to GitHub as README.md.
-
 # Bash Scripting Basics 🚀
 
 ## 📌 Overview
